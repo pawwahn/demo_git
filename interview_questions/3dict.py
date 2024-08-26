@@ -30,8 +30,13 @@ print(merged_dict)
 dict2.pop('c')
 print(dict2)
 
-dict2.pop('m')  #key not found but still does not throws error
+#dict2.pop('m')  #key not found but still does not throws error
+#print(dict2)
+
+
+dict2.popitem()
 print(dict2)
+
 
 
 

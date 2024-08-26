@@ -27,7 +27,7 @@ print(a)    #['a', 'b', 'pavan', 'kumar', ['kota', '444']]
 a.insert(2,'c')
 print(a)    #['a', 'b', 'c', 'pavan', 'kumar', ['kota', '444']]
 a.reverse()
-print(a)
+print('reverse : {}'.format(a))
 print(a[::-1])
 
 

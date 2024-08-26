@@ -1,0 +1,25 @@
+#Structure of the Robot framework is SVTK
+
+***Settings***
+
+***Varibales***
+
+***Test cases***
+
+***Keywords***
+
+For opening a browser:
+    open browser
+
+how to maximize browser window:
+    maximize browser window
+
+how to select radio button:
+    select radio button <id>    <value>
+
+how to provide value to a text box:
+    input text  <attribute>:<attribute name>    <value>
+    input text  name:First Name    Pavan
+    input text  name:Email  pavan@mymail.com
+
+

@@ -1,0 +1,39 @@
+#### completed:
+Lists, Tuples, Dictionary, sets, strings, pop, append, extend
+iterators, generator, doc string,
+multi threading
+list comprehensions, dict comprehensions, list to dict
+singleton class, closers
+class & object, __init__.py, decorator, enumerator
+lambda, maps, filters, exceptions
+queues, regular expressions,
+mail concepts, diff between with open and open
+random, files
+
+#### Yet to complete:
+subprocess, xmlrpc
+os module
+__def private class
+conneting to db
+date module
+desktop notification
+deep copy, shallow copy
+joins
+overload, override
+split, sort
+encapsulation
+polymorphism
+inheritance
+pickiling , unpickling
+zeep module - calling soap api
+socket module
+static methods
+terenory operator
+bubble sort
+numpy
+matplotlib
+handling excel
+pandas
+selenium - open a website, get url, scrape data with xpaths - abs xpath and dynamic xpath
+
+

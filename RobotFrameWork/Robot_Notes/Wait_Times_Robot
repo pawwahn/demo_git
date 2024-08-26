@@ -1,0 +1,7 @@
+sleep <number of seconds>
+    sleep 3
+
+set selenium speed <seconds>
+    set selenium speed 3
+#this is to wait for 3 seconds for every statement and need not to add for every statement like sleep 3, sleep 3, etc..
+
